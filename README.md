@@ -23,7 +23,7 @@
 <br>
 
 # Frepple Integration
-![Frepple Integration](https://github.com/msf4-0/Integrated-Resource-Planning-System-IRPS/blob/master/images/Frepple%20Integration.png)
+![Frepple Integration](https://github.com/msf4-0/Integrated-Resource-Planning-System-IRPS/blob/master/images/Frepple%20Integration.PNG)
 
 <br>
 

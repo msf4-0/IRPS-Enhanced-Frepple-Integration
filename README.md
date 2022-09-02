@@ -40,8 +40,7 @@
     - Ubuntu: Docker Engine, Docker Compose
     - Mac: Docker Desktop
 
-2. Frappe Apps included:
-The installation of this release includes the following:
+2. The installation of this release includes the following:
     - [ERPNext Version 12](https://github.com/frappe/erpnext)
     - [Metabase Integration](https://github.com/chiajunshen/shrdc_frappe_metabase)
     - [Telegram Integration](https://github.com/chiajunshen/shrdc_erpnext_telegram)
@@ -174,6 +173,10 @@ The installation of this release includes the following:
     1. You have your backup files on your pc (if you perform online backup, you can download the backup files onto your pc).
     2. You have a running instance of ERPNext in docker production container in which you want to restore with the backup files.
 2. [Restore](https://docs.google.com/document/d/1yG2N1isESsdtDdfH3aHykIrgD6lnVOLzK0zThKLreHA/edit?usp=sharing)
+
+## For Frepple User
+- In order to utilize the integration between ERPNext and Frepple, you will need a running instance of Frepple software. 
+- To install Frepple software in both Windows and Linux refer to [this document](https://docs.google.com/document/d/1x_-71FcPrrhF7vvuBX37G0No-TlPxyTQNcQWuN0f8cE/edit?usp=sharing)
 
 ## For Developer
 - [Reference: Customizing your own shrdc custom frappe docker](https://docs.google.com/document/d/1XxOYM_qhZ0RGI60YM82XHOkEzrn8ywXC98i354Donjc/edit?usp=sharing)

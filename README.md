@@ -18,17 +18,17 @@
 <br>
 
 # ERPNext Home Page
-![ERPNext Home Page](https://github.com/msf4-0/Integrated-Resource-Planning-System-IRPS/blob/master/images/ERPNext%20Home%20Page.png)
+![ERPNext Home Page](https://github.com/msf4-0/IRPS-Enhanced-Frepple-Integration/blob/master/images/ERPNext%20Home%20Page.png)
 
 <br>
 
-# Frepple Integration
-![Frepple Integration](https://github.com/msf4-0/Integrated-Resource-Planning-System-IRPS/blob/master/images/Frepple%20Integration.PNG)
+# Frepple Integration 
+![Frepple Integration](https://github.com/msf4-0/IRPS-Enhanced-Frepple-Integration/blob/master/images/Frepple%20Integration.PNG)
 
 <br>
 
 # Barcode Scanning System
-![Barcode Scanning System](https://github.com/msf4-0/Integrated-Resource-Planning-System-IRPS/blob/master/images/Barcode%20Scanning%20System.png)
+![Barcode Scanning System](https://github.com/msf4-0/IRPS-Enhanced-Frepple-Integration/blob/master/images/Barcode%20Scanning%20System.png)
 
 <br>
 

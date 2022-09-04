@@ -32,6 +32,10 @@
 
 <br>
 
+## For Frepple User
+In order to utilise the full integration between ERPNext and Frepple, you will need a running instance of Frepple software. To install Frepple software in both Windows and Linux refer to [this document](https://docs.google.com/document/d/1P4U1rZszydwy2LmVAuC4lvYPl-dFw86LSC8Fz8zRsIE/edit?usp=sharing).
+
+
 ## For ERPNext User
 
 ### 1. Integrated Resource Planning System IRPS
@@ -174,9 +178,6 @@
     2. You have a running instance of ERPNext in docker production container in which you want to restore with the backup files.
 2. [Restore](https://docs.google.com/document/d/1yG2N1isESsdtDdfH3aHykIrgD6lnVOLzK0zThKLreHA/edit?usp=sharing)
 
-## For Frepple User
-- In order to utilise the full integration between ERPNext and Frepple, you will need a running instance of Frepple software. 
-- To install Frepple software in both Windows and Linux refer to [this document](https://docs.google.com/document/d/1P4U1rZszydwy2LmVAuC4lvYPl-dFw86LSC8Fz8zRsIE/edit?usp=sharing).
 
 ## For Developer
 - [Reference: Customizing your own shrdc custom frappe docker](https://docs.google.com/document/d/1XxOYM_qhZ0RGI60YM82XHOkEzrn8ywXC98i354Donjc/edit?usp=sharing)
